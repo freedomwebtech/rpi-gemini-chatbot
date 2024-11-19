@@ -7,7 +7,7 @@ from pydub import AudioSegment
 from pydub.playback import play
 import os
 # Configure the Generative AI API with your API key
-genai.configure(api_key="AIzaSyCUBTiIJm-ntxODXhJ5MV9Bp6ykqGJ4IBs")
+genai.configure(api_key="")
 
 # Initialize the model
 model = genai.GenerativeModel("gemini-1.5-flash")
