@@ -1,0 +1,5 @@
+sudo rm /usr/lib/python3
+
+google.generativeai
+gtts
+playsound
